@@ -114,7 +114,6 @@ export class SearchBarDefault extends React.Component<
             borderBottomWidth: 1,
             borderBottomColor: '#000',
             borderTopColor: '#000',
-            padding: 8,
             backgroundColor: theme?.colors?.grey0,
           },
           lightTheme && {

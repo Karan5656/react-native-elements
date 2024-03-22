@@ -258,8 +258,6 @@ export class SearchBarIOS extends Component<SearchBarIosProps, SearchBarState> {
 
 const styles = StyleSheet.create({
   container: {
-    paddingBottom: 13,
-    paddingTop: 13,
     flexDirection: 'row',
     overflow: 'hidden',
     alignItems: 'center',
